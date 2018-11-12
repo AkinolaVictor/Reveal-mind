@@ -1,2 +1,2 @@
-# Reveal-mind
+# Algorithmss
 This contains my Algorithms
