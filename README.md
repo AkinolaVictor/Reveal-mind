@@ -1,2 +1,2 @@
 # Reveal-mind
-An app that tells whats in the mind
+This contains my Algorithms
