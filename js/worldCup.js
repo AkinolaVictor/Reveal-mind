@@ -23,11 +23,9 @@ for(let i=0; i<arr.length; i++){
 if (counter==1&&nextCounter==1){
  prob=(counter/totalMatches).toFixed(3);
 }else if(counter>1){
-	high=counter*(counter-1);
-	prob=(high/totalMatches).toFixed(3);
+	prob=(counter/totalMatches).toFixed(3);
 }else if(counter==1&&nextCounter>1){
-	high=nextCounter*(nextCounter-1);
-	prob=(high/totalMatches).toFixed(3);
+	prob=(nextCounter/totalMatches).toFixed(3);
 }
 console.log(prob);
 }
