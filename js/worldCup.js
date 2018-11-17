@@ -1,3 +1,4 @@
+
 //find the probability of watching 
 //the highest scoring match. 
 let goals=[1,2,3,1,2,2,2];
