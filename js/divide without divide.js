@@ -1,3 +1,5 @@
+//This is an algorithm to divide
+//without using the division operator
 let counter=0,deci=0,it;
 let div=(num, by)=>{
 	let  save,dec;
