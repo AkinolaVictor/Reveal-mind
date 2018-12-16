@@ -1,0 +1,1 @@
+var maxArea = function (height) { var l = 0, r = height.length - 1, max = 0, h, w; while (l < r) { h = Math.min(height[l], height[r]); w = r - l; max = Math.max(max, h * w); if (height[l] < height[r]) { l++; } else { r--; } } return max; };
