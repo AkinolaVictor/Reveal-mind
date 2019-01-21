@@ -1,0 +1,122 @@
+body{
+	padding: 0px 30px 0px 30px;
+	background: #543312;
+	font-family: sans-serif;
+}
+
+.container{
+	background: white;
+	height: 600px;
+	width: 1000px;
+	text-align: center;
+	justify-content: center;
+	position: absolute;
+	left: 14%;
+}
+
+h4{
+	margin-top: -20px;
+}
+
+.content{
+	border: 2px solid green;
+	width: 800px;
+	height: 170px;
+	margin-left: 100px;
+	background: #ffecf3;
+}
+
+.price-labels{
+	display: flex;
+	margin-top: 10px;
+	text-align: center;
+	align-content: center;
+	justify-content: center;
+}
+
+.total{
+	height: 30px;
+	width: 350px;
+}
+
+.Liabilities{
+	background: #edc374;
+}
+
+.Assets{
+	background: #91bbe4 ;
+}
+
+.lab{
+	margin-top: 7px;
+}
+
+.input{
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
+}
+
+.box{
+	border: 2px solid;
+	height: 20px;
+	width: 150px;
+	justify-content: center;
+	background: #faebd7;
+}
+
+.left{
+	margin-right: 100px;
+}
+
+.right{
+	margin-left: 100px;
+}
+
+.dollar{
+	margin-top: 2px;
+}
+
+.final{
+	display: flex;
+	justify-content: center;
+}
+
+.blu{
+	background: #b852ff;
+}
+
+.note{
+	font-size:13px;
+}
+
+button{
+	width: 130px;
+	height: 30px;
+	border-radius: 5px;
+	margin-top: 180px;
+	background: green;
+	border: 0px;
+	color: white;
+}
+
+.design{
+	border-radius: 5px;
+	background: #b852ff;
+	width: 20px;
+	height: 20px;
+	margin: -8px -8px 0px 0px;
+}
+
+
+.close{
+	float: right;
+	background: red;
+	color: white;
+}
+
+
+
+
+
+

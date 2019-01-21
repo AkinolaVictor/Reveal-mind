@@ -1,0 +1,274 @@
+body{
+	background: #34be56;
+}
+
+.main{
+	width: 1000px;
+	height: 640px;
+	background: white;
+	justify-content: center;
+	position: absolute;
+	left: 14%;
+	text-align: center;
+}
+
+.close{
+	float: right;
+	background: red;
+	color: white;
+}
+
+h4{
+	margin-top: -20px;
+}
+
+.forms{
+	background: white;
+	width: 950px;
+	height: 550px;
+	margin: -10px 25px 0px 25px;
+	display: flex;
+}
+
+.left{
+	width: 680px;
+	height: 550px;
+	margin: 0px 0px 0px 0px;
+}
+
+.right{
+	width: 270px;
+	height: 550px;
+	margin: 0px 0px 0px 0px;
+}
+
+/*working on the left side*/
+/*first four on the left*/
+.onetwo{
+	display: flex;
+	margin-top: 0px;
+}
+
+.threefour{
+	display: flex;
+	margin-top: 15px;
+}
+
+.border{
+	border: 1px solid black;
+	width: 322px;
+	height: 80px;
+}
+
+.one{
+	height: 90px;
+	padding: 0px 0px 0px 0px;
+}
+
+.two{
+	margin-left: 15px;
+	height: 90px;	
+}
+
+.three{
+	
+}
+
+.four{
+	margin-left: 15px;
+}
+
+/*no five on the left*/
+.five{
+	width: 662px;
+	height: 80px;
+	border: 1px solid black;
+	margin-top: 15px;
+	display: flex;
+}
+
+.dek{
+	float: left;
+	text-align: left;
+	margin: -8px 0px 0px 13px;
+}
+
+.inp{
+	height: 20px;
+	margin: -20px 0px 0px 0px;
+	border: 1px solid black;
+}
+
+.num{
+	width: 20px;
+	height: 20px;
+	background: #b852ff;
+	margin: 8px 0px 0px -10px;
+	border-radius: 5px;
+	float: left;
+	color: white;
+}
+
+.qust{
+	width: 15px;
+	height: 15px;
+	background: blue;
+	border-radius: 4px;
+}
+
+.a{
+	width: 260px;
+	height: 80px;
+	text-align: left;
+	padding-top: 3px;
+}
+
+.b{
+	width: 200px;
+	height: 80px;
+	display: flex;
+	text-align: left;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+.c{
+	width: 200px;
+	height: 80px;
+	display: flex;
+	text-align: left;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+.inp2{
+	height: 18px;
+	width: 70px;
+	border: 1px solid black;
+}
+
+.deks{
+	float: left;
+	text-align: left;
+	margin: 10px 0px 0px 13px;
+}
+
+.topic{
+	margin: 0px 0px 0px 13px;
+}
+
+.line{
+	height: 50px;
+	width: 1px;
+	background: black;
+	float: left;
+	margin: -5px 0px 0px 55px;
+}
+
+.line2{
+	height: 50px;
+	width: 1px;
+	background: black;
+	float: right;
+	margin: -5px 0px 0px 20px;
+}
+
+.six{
+	height: 247px;
+	width: 662px;
+	border: 1px solid black;
+	margin: 15px 0px 0px 0px;
+	text-align: left;
+}
+
+.doll{
+	width: 250px;
+	height: 20px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.period{
+	width: 200px;
+	height: 20px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.space{
+	margin: 0px 30px 0px 30px;
+}
+
+.pad{
+	margin: 0px 0px 0px 20px;
+}
+
+.middle{
+	display: flex;
+}
+
+.bottom{
+	display: flex;
+}
+
+.per{
+	height: 20px;
+	width: 150px;
+	border: 1px solid black;
+}
+
+.rht{
+	margin: 0px 0px 0px 90px;
+}
+
+.rht2{
+	margin: 0px 0px 0px 40px;
+}
+
+.cash{
+	height: 186px;
+	width: 269px;
+	border: 1px solid black;
+}
+
+.addMargin{
+	margin-top: 55px;
+}
+
+.children{
+	height: 80px;
+	width: 269px;
+	border: 1px solid black;
+	margin-top: 15px;
+}
+
+.modr{
+	font-size: 13px;
+}
+
+.more{
+	background: #91bbef;
+	height: 15px;
+}
+
+button{
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	margin-top: 30px;
+	background: green;
+	border: 0px;
+	color: white;
+}
+
+.bg{
+	background: #faebd7;
+}
+
+.design{
+	border-radius: 5px;
+	background: red;
+	width: 20px;
+	height: 20px;
+	margin: -8px -8px 0px 0px;
+}
