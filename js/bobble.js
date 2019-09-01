@@ -1,4 +1,4 @@
-let num=[5,2,1,3,4,9];
+let num=[5,2,1,3,4,9,6];
 function swap(one,two){
 	var temp=one;
 	one=two;
