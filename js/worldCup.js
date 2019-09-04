@@ -1,6 +1,7 @@
 
 //find the probability of watching 
-//the highest scoring match. 
+//the highest scoring match.
+//i.e. the match where the total goal scored is used.  
 let goals=[1,2,3,1,2,2,2];
 function matchProb(arr){
 let totalMatches=arr.length*(arr. length-1);
