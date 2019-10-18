@@ -5,7 +5,7 @@
 	Follow-up: what if you can't use division?
 */
 
-//by using division
+//by using division method
 let nums=[5,4,-1,-3,8];
 
 function firstMissing(arr){
