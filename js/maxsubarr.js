@@ -31,7 +31,7 @@ function subarr(){
 		if(test<0){
 			test=0;
 		}else{
-			//test=test+cur;
+			//test=test+cur; to know what is to be
 			//vals.push(cur);
 		}
 	}
